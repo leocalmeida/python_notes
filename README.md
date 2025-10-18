@@ -11,6 +11,8 @@ Cada arquivo contém **anotações claras e exemplos funcionais** para facilitar
 ### 🐍 [01 - Fundamentos](https://github.com/leocalmeida/dio_python/blob/main/01_fundamentos.md)
 ### 🐍 [02 - Estrutura de Dados](https://github.com/leocalmeida/dio_python/blob/main/02-Estrutura%20de%20dados.md)
 ### 🐍 [03 - Classes](https://github.com/leocalmeida/dio_python/blob/main/03-Classes.md)
+### 🐍 [04 - Encapsulamento](https://github.com/leocalmeida/dio_python/blob/main/04-Encapsulamento.md)
+### 🐍 [05 - Classes](https://github.com/leocalmeida/dio_python/blob/main/05-Polimorfismo.md)
 
 
 ---
