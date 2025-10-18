@@ -30,7 +30,12 @@ class Bicicleta:
 ```
 
 ### 📐 Estrutura mínima:
-
+```python
+# Classe sem inicializador
+class NomeDaClasse:
+    def metodo(self):
+        # ação que o objeto pode executar
+```
 ```python
 class NomeDaClasse:
     def __init__(self, atributos...):
