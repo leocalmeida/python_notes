@@ -1,4 +1,4 @@
-# Rock Paper and Scissor
+# Rock Paper and Scissor 🪨 🧾 ✂️
 O famigerado Pedra, papel e tesoura
 
 Um jogo simples, de conhecimento de quase todas as pessoas e ótimo para treinar conceitos simples de programação.
