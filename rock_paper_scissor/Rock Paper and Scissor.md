@@ -1,7 +1,12 @@
 # Rock Paper and Scissor
 O famigerado Pedra, papel e tesoura
 
-Um jogo simples, de conhecimento de quase todas as pessoas e ótimo para treinar conceitos simples de programação
+Um jogo simples, de conhecimento de quase todas as pessoas e ótimo para treinar conceitos simples de programação.
+
+Conceitos utilizados:
+* Laço de repetição
+* Condições
+* Tratamento de dados de entrada
 
 ``` python
 import random
