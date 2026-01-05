@@ -12,7 +12,7 @@ Cada arquivo contém **anotações claras e exemplos funcionais** para facilitar
 ### 🐍 [02 - Estrutura de Dados](https://github.com/leocalmeida/python_notes/blob/main/02-Estrutura%20de%20dados.md)
 ### 🐍 [03 - Classes](https://github.com/leocalmeida/python_notes/blob/main/03-Classes.md)
 ### 🐍 [04 - Encapsulamento](https://github.com/leocalmeida/python_notes/blob/main/04-Encapsulamento.md)
-### 🐍 [05 - Classes](https://github.com/leocalmeida/python_notes/blob/main/05-Polimorfismo.md)
+### 🐍 [05 - Polimorfismo](https://github.com/leocalmeida/python_notes/blob/main/05-Polimorfismo.md)
 
 ---
 [Leonardo C. A.](https://www.linkedin.com/in/almeidaleoc)
