@@ -13,6 +13,7 @@ Cada arquivo contém **anotações claras e exemplos funcionais** para facilitar
 ### 🐍 [03 - Classes](https://github.com/leocalmeida/python_notes/blob/main/03-Classes.md)
 ### 🐍 [04 - Encapsulamento](https://github.com/leocalmeida/python_notes/blob/main/04-Encapsulamento.md)
 ### 🐍 [05 - Polimorfismo](https://github.com/leocalmeida/python_notes/blob/main/05-Polimorfismo.md)
+### 🐍 [06 - Praticando alguns conceitos (Exemplos)](https://github.com/leocalmeida/python_notes/blob/main/DSA-Python-Lista2-CAP06-Exercicios.ipynb)
 
 ---
 [Leonardo C. A.](https://www.linkedin.com/in/almeidaleoc)
