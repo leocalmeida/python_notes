@@ -15,5 +15,12 @@ Cada arquivo contém **anotações claras e exemplos funcionais** para facilitar
 ### 🐍 [05 - Polimorfismo](https://github.com/leocalmeida/python_notes/blob/main/05-Polimorfismo.md)
 ### 🐍 [06 - Praticando alguns conceitos (Exemplos)](https://github.com/leocalmeida/python_notes/blob/main/DSA-Python-Lista2-CAP06-Exercicios.ipynb)
 
+
 ---
+Fontes:
+> DIO - Data innovation One
+
+> DSA - Data Science Academy
+---
+
 [Leonardo C. A.](https://www.linkedin.com/in/almeidaleoc)
